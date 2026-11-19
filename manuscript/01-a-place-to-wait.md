@@ -6,7 +6,7 @@ Ruth Bell put her husband's phone on the table.
 
 “It says he's dead.”
 
-She'd left his council account open. At the top was his name, Leon Bell. Underneath, in a pale blue box, it said, “We've been told that Mr Bell has died. His care payments have stopped.”
+She'd left his Allegheny County home-care account open. At the top was his name, Leon Bell. Underneath, in a pale blue box, it said, “We've been told that Mr Bell has died. His care payments have stopped.”
 
 “Where is he?” I asked.
 
@@ -26,11 +26,11 @@ Ruth sat down and tucked her feet beside the box.
 
 “And the money usually comes today?”
 
-“Yes. Ninety-six pounds.”
+“Yes. Ninety-six dollars.”
 
 I wrote it down.
 
-“Have you spoken to the council?”
+“Have you spoken to the county?”
 
 “Three people. The last one gave me this number.”
 
@@ -44,11 +44,11 @@ She turned the letter over. There were names and times written on the back, then
 
 “No.”
 
-“And his other money? His pension?”
+“And his other money? His Social Security?”
 
 “That's still there. Thank God.”
 
-I was glad of that. Getting one payment restored was difficult enough. I put a box round the ninety-six pounds on my pad.
+I was glad of that. Getting one payment restored was difficult enough. I put a box around the ninety-six dollars on my pad.
 
 “Are you the doctor?” she asked.
 
@@ -58,7 +58,7 @@ I was glad of that. Getting one payment restored was difficult enough. I put a b
 
 “Computers. Sort of.”
 
-She looked round the basement. I knew what she was looking at. The cracked plaster, the little repair bench, the heater with DO NOT COVER written on it in three different people's handwriting. I wanted to tell her that plenty of people with doctorates worked in places like this. She hadn't said anything, though, and I managed to leave it alone.
+She looked around the basement. I knew what she was looking at. The cracked plaster, the little repair bench, the heater with DO NOT COVER written on it in three different people's handwriting. I wanted to tell her that plenty of people with doctorates worked in places like this. She hadn't said anything, though, and I managed to leave it alone.
 
 “Daniel said you'd know what to do.”
 
@@ -70,7 +70,7 @@ She looked round the basement. I knew what she was looking at. The cracked plast
 
 She pulled another sheet from her bag. This one had Mere Systems printed across the top.
 
-I wished Daniel would stop introducing me by my employment history. He meant well. Once he'd told a room full of pensioners that I was an expert in artificial intelligence, and I'd spent the rest of the afternoon trying to connect the printer.
+I wished Daniel would stop introducing me by my employment history. He meant well. Once he'd told a room full of retirees that I was an expert in artificial intelligence, and I'd spent the rest of the afternoon trying to connect the printer.
 
 “I did some research there,” I said. “A while ago.”
 
@@ -92,27 +92,25 @@ She stood and reached for the phone.
 
 “What's your name, love? Daniel did tell me.”
 
-“Nessa.”
+“Mara.”
 
-“Vanessa?”
-
-“Yes.”
-
-“Nessa,” she repeated, getting it right. I liked her for making the effort.
+“Thank you, Mara,” she said, and picked up the phone.
 
 ***
 
-Leon was in the passenger seat of a blue hatchback, reading a seed catalogue. He put his finger between the pages when Ruth opened the door.
+Saint Anne's was halfway up a hill in Pittsburgh. The parking lot behind it was almost level, which was one of the things Daniel mentioned whenever he tried to persuade a new group to meet there.
 
-“This is Nessa. She's going to help.”
+Leon was in the passenger seat of a blue hatchback, reading a seed catalog. He put his finger between the pages when Ruth opened the door.
+
+“This is Mara. She's going to help.”
 
 I would have preferred “have a look,” which allowed for the possibility of being useless, but Leon was already shaking my hand.
 
 “Sorry to bring you out in this.”
 
-There was a fine rain blowing across the car park. He had a coat over his knees and a walking frame folded behind his seat.
+There was a fine rain blowing across the parking lot. He had a coat over his knees and a walker folded behind his seat.
 
-“It's all right. We're going round the side.”
+“It's all right. We're going around the side.”
 
 “Are we allowed?”
 
@@ -130,7 +128,7 @@ While Ruth got the frame, Leon moved his legs out of the car one at a time. I st
 
 He took a minute to straighten up. Ruth locked the car and checked the handle. Then she checked his door as well.
 
-The kitchen entrance was beside the bins, beneath a little roof that kept the rain off everything except the lock. I had to put the key in twice. Behind me, Leon waited without commenting, which I appreciated.
+The kitchen entrance was beside the trash cans, beneath a little roof that kept the rain off everything except the lock. I had to put the key in twice. Behind me, Leon waited without commenting, which I appreciated.
 
 Inside, I cleared a place at the table while Ruth helped him off with his coat.
 
@@ -148,7 +146,7 @@ He dipped one, lost half of it, and looked into the mug.
 
 She handed him a teaspoon. He fished the biscuit out and ate it anyway.
 
-I brought my laptop up from the basement. There was somebody at the advice desk already, a man who wanted to challenge a parking charge. I gave him a form, explained that I'd be upstairs with a client, and asked him to knock when he'd filled it in.
+I brought my laptop up from the basement. There was somebody at the help desk already, a man who wanted to challenge a parking charge. I gave him a form, explained that I'd be upstairs with a client, and asked him to knock when he'd filled it in.
 
 He asked whether the charge would increase while he waited.
 
@@ -166,7 +164,7 @@ I could hear him unfolding the chair as I went back up. It was only quarter past
 
 ***
 
-The Mere document was an invitation to a study. Eighty pounds for an interview about home care. Leon had done it the day before.
+The Mere document was an invitation to a study. Eighty dollars for an interview about home care. Leon had done it the day before.
 
 “They paid that,” Ruth said. “That part was fine.”
 
@@ -198,13 +196,13 @@ I knew the sort of work. At the university, we'd used something similar to test 
 
 He sat back. He'd understood it perfectly well.
 
-There was a paragraph saying that participation would have no effect on his current support. I turned the page towards them and pointed it out.
+There was a paragraph saying that participation would have no effect on his current support. I turned the page toward them and pointed it out.
 
 “Well,” Ruth said. “That's something.”
 
-I asked Leon to sign an authority allowing me to speak to the council. He read it, signed, and asked whether I had worked for the council long.
+I asked Leon to sign an authority allowing me to speak to the county. He read it, signed, and asked whether I had worked for the county for long.
 
-“I work here. They give me a small fee for the advice sessions. I do repairs as well.”
+“I work here. They give me a small fee for the benefits-help sessions. I do repairs as well.”
 
 “What do you repair?”
 
@@ -226,13 +224,13 @@ He looked at me for support. I found the kettle suddenly needed my attention.
 
 ***
 
-We got through to the council at ten past ten.
+We got through to the county at ten past ten.
 
-I'd spent most of the wait reading Leon's account history. With his permission, I'd downloaded the detailed record to my laptop. The council provided it in a format intended for another computer, apparently on the assumption that if you wanted the information badly enough you would arrange to become one.
+I'd spent most of the wait reading Leon's account history. With his permission, I'd downloaded the detailed record to my laptop. The county provided it in a format intended for another computer, apparently on the assumption that if you wanted the information badly enough you would arrange to become one.
 
 There were dates, identifiers and status changes. At 8:42 the previous evening, an update from Mere had changed Leon's status to deceased. Three minutes later, his care payment had been closed.
 
-I could show the council exactly where to look. That ought to help. I tried to keep my expectations at that level.
+I could show the county exactly where to look. That ought to help. I tried to keep my expectations at that level.
 
 The woman who answered was called Denise.
 
@@ -252,13 +250,13 @@ There was a short silence.
 
 You could hear how tired she was when she said it. Ruth lowered her hand.
 
-Denise found the update. She could see it had come from Mere, but the council required a correction from the provider before she could reopen the account. I asked whether there was an emergency procedure.
+Denise found the update. She could see it had come from Mere, but the county required a correction from the provider before she could reopen the account. I asked whether there was an emergency procedure.
 
 “There is, but the earliest I could get a payment approved would be this afternoon.”
 
 “That would do,” Ruth said.
 
-I put the call on speaker so she wouldn't have to keep leaning towards it.
+I put the call on speaker so she wouldn't have to keep leaning toward it.
 
 Denise needed evidence of the usual care cost. Ruth gave me the invoice from Janice. It was in a small envelope with three earlier invoices, all paid. I photographed the latest one and sent it to the address Denise supplied.
 
@@ -268,7 +266,7 @@ Denise needed evidence of the usual care cost. Ruth gave me the invoice from Jan
 
 “All right. I'm marking it urgent.”
 
-She gave us a reference number and her extension. Ruth wrote both on the back of the council letter.
+She gave us a reference number and her extension. Ruth wrote both on the back of the county letter.
 
 “When will we hear?”
 
@@ -302,7 +300,7 @@ Ruth asked if they should go home.
 
 “Then we may as well stay. Save you explaining it all again.”
 
-Leon had opened the seed catalogue on the table. He asked if the kitchen was needed for anything.
+Leon had opened the seed catalog on the table. He asked if the kitchen was needed for anything.
 
 “Lunch at twelve.”
 
@@ -314,7 +312,7 @@ Leon had opened the seed catalogue on the table. He asked if the kitchen was nee
 
 “I haven't looked.”
 
-He turned back to the catalogue. “Something to look forward to.”
+He turned back to the catalog. “Something to look forward to.”
 
 I went downstairs to the parking-charge man. His appeal took twenty minutes. Then a woman needed help finding a bill she had been sent through an account she couldn't access. I reset her password and watched her write the new one on the bill she'd brought to prove she had the account in the first place.
 
@@ -326,7 +324,7 @@ By the time I got back upstairs, Daniel had arrived. He'd made Leon a fresh coff
 
 It was a kind thing to say. I had given him instant coffee and a biscuit, and he was taking care of my feelings about it.
 
-Daniel wore his clerical collar with a jumper whose sleeves had stretched at the wrists. He was sorting tins onto a shelf. People gave the church food, cables, clothes and money, in roughly that order of abundance. The cables required the least from him. The money required the most. There was usually a meeting involved, with somebody explaining what a privilege it was to support the community before asking whether we could manage on less.
+Daniel wore his clerical collar with a sweater whose sleeves had stretched at the wrists. He was sorting cans onto a shelf. People gave the church food, cables, clothes and money, in roughly that order of abundance. The cables required the least from him. The money required the most. There was usually a meeting involved, with somebody explaining what a privilege it was to support the community before asking whether we could manage on less.
 
 “Can you stay with them a minute?” I asked him. “I need to fetch my charger.”
 
@@ -336,7 +334,7 @@ Downstairs, I checked my own bank account.
 
 My last contract payment was still missing. I had sent an email about it on Friday, then another on Monday, which was yesterday. I began a third and deleted it. There was nothing to add except greater need, and the woman processing the invoice already knew when it was due.
 
-I found the charger underneath a box of screens. A replacement screen cost me twenty-seven pounds before I'd done any work. Customers could now get free software to diagnose the fault, tell them the part number and show them how to fit it. Some did it themselves, and good for them. Others brought me the phone afterward with the connector torn off.
+I found the charger underneath a box of screens. A replacement screen cost me twenty-seven dollars before I'd done any work. Customers could now get free software to diagnose the fault, tell them the part number and show them how to install it. Some did it themselves, and good for them. Others brought me the phone afterward with the connector torn off.
 
 I earned more fixing those, but it was a poor basis for wishing people success.
 
@@ -402,7 +400,7 @@ Ruth asked whether I had any bread left.
 
 ***
 
-At one thirty-five, Denise called. The emergency payment had been approved. Ninety-six pounds would reach Leon's bank before five. The usual payment still needed correcting, and she had sent the matter to the provider's incident team.
+At one thirty-five, Denise called. The emergency payment had been approved. Ninety-six dollars would reach Leon's bank before five. The usual payment still needed correcting, and she had sent the matter to the provider's incident team.
 
 Ruth thanked her, took the reference number for the new payment and began putting the documents away.
 
@@ -458,7 +456,7 @@ She put the bag down, checked where Leon's feet were, and reversed carefully out
 
 I took the laptop back to the basement.
 
-The study records were easier to read than the council's. Somebody at Mere had put work into making the material accessible to participants. There were dates, titles and explanations. I was grateful for them.
+The study records were easier to read than the county's. Somebody at Mere had put work into making the material accessible to participants. There were dates, titles and explanations. I was grateful for them.
 
 Leon's actual interview lasted forty-one minutes. After that, software had generated hundreds of short conversations in which a version of Leon considered possible changes to his care.
 
@@ -484,7 +482,7 @@ After two more explanations, the simulated Leon accepted.
 
 A score beside the conversation marked the proposal as acceptable to the participant.
 
-I copied the reference into my notebook. Even if there was nothing remotely conscious in the system, that was a bad way to count consent. The council might have other checks. I hoped it did.
+I copied the reference into my notebook. Even if there was nothing remotely conscious in the system, that was a bad way to count consent. The county might have other checks. I hoped it did.
 
 Farther down, in another conversation, the simulated Leon said, “I'd like to finish now.”
 
@@ -530,7 +528,7 @@ I scrolled to the last assessment.
 
 This time the evaluator had also issued a stop code.
 
-The records showed that code passing out of the simulation process and into a queue for updating participant accounts. It carried Leon's study number. A minute later, the council received the update that marked him dead.
+The records showed that code passing out of the simulation process and into a queue for updating participant accounts. It carried Leon's study number. A minute later, the county received the update that marked him dead.
 
 I could follow that much. Somebody at Mere would have to explain why an instruction to stop a set of simulations had become a report that a person had died.
 
