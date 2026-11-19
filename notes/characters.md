@@ -23,7 +23,7 @@ Former Mere evaluation lead; now teaches part-time and consults. Helped author a
 Still employed at Mere, doing integration work. Former colleague of Mara. Helps locate public specifications and internal escalation routes but initially will not leak records. Wants defects corrected without collapsing the program. Anxious, capable, occasionally patronizing. His knowledge of the system is genuinely local.
 
 ## Leila Grant, 46
-Allegheny County Council member and former care-worker organizer. To enter after the pilot. Wants enforceable resident and worker power over procurement. Political skill includes compromise and sometimes concealment. Funding and election constraints do not excuse every choice. She will challenge Mara's assumption that a technically better answer automatically deserves implementation.
+Dallas County commissioner and former care-worker organizer. To enter after the pilot. Wants enforceable resident and worker power over procurement. Political skill includes compromise and sometimes concealment. Funding and election constraints do not excuse every choice. She will challenge Mara's assumption that a technically better answer automatically deserves implementation.
 
 ## Martin Vale, 52
 Mere service director. To enter later. Defends deployment because it improved waiting times and prevented some hospital admissions. Financial and contractual pressures also matter. He must be capable of telling the truth against his own interest, and capable of harm through choices he can explain.
