@@ -1,13 +1,12 @@
 # Esse
 
-# Chapter One
-## A Place to Wait
+## Chapter One
 
 Ruth Bell put her husband's phone on the table.
 
 “It says he's dead.”
 
-The screen offered condolences and three kinds of assistance.
+She'd left his council account open. At the top was his name, Leon Bell. Underneath, in a pale blue box, it said, “We've been told that Mr Bell has died. His care payments have stopped.”
 
 “Where is he?” I asked.
 
@@ -17,446 +16,554 @@ She pulled a folded letter from her bag.
 
 “His payment didn't come this morning.”
 
-I moved my soldering stand out of the way and gave her the other chair. One of its feet was missing a rubber cap. She sat down, felt it rock, and put her handbag beneath the short leg before I could find something.
+I took my coat off the spare chair. There were only two chairs, but I'd managed to occupy both of them and most of the floor. Under the desk was a box of donated cables. People were always giving the church cables. They couldn't bear to throw them away because there was nothing wrong with them, except that nobody had owned the thing they connected to for fifteen years.
 
-“Which payment?”
+Ruth sat down and tucked her feet beside the box.
 
-“The care one. From the council.”
+“What's the payment for?”
 
-“His pension's all right?”
+“A woman comes in to help Leon get washed and dressed. Janice. I pay her on Wednesdays.”
+
+“And the money usually comes today?”
+
+“Yes. Ninety-six pounds.”
+
+I wrote it down.
+
+“Have you spoken to the council?”
+
+“Three people. The last one gave me this number.”
+
+She turned the letter over. There were names and times written on the back, then a telephone number. It was the same number I would have called.
+
+“What did they say when you told them he was alive?”
+
+“They said somebody had reported a death.”
+
+“Did they say who?”
+
+“No.”
+
+“And his other money? His pension?”
+
+“That's still there. Thank God.”
+
+I was glad of that. Getting one payment restored was difficult enough. I put a box round the ninety-six pounds on my pad.
+
+“Are you the doctor?” she asked.
+
+“Not that kind.”
+
+“What kind?”
+
+“Computers. Sort of.”
+
+She looked round the basement. I knew what she was looking at. The cracked plaster, the little repair bench, the heater with DO NOT COVER written on it in three different people's handwriting. I wanted to tell her that plenty of people with doctorates worked in places like this. She hadn't said anything, though, and I managed to leave it alone.
+
+“Daniel said you'd know what to do.”
+
+“I'll have a look.”
+
+“He said you used to work for them.”
+
+“Who?”
+
+She pulled another sheet from her bag. This one had Mere Systems printed across the top.
+
+I wished Daniel would stop introducing me by my employment history. He meant well. Once he'd told a room full of pensioners that I was an expert in artificial intelligence, and I'd spent the rest of the afternoon trying to connect the printer.
+
+“I did some research there,” I said. “A while ago.”
+
+“So you know somebody.”
+
+“One or two people. I don't know if they're the right people.”
+
+“Could you ask?”
 
 “Yes.”
 
-That mattered. If his pension had stopped as well, we would have had to look beyond the council. I wrote his name at the top of a fresh sheet and asked whether he'd given her permission to discuss the account.
+That was fair enough. I'd been about to explain how big the company was, how many departments it had, all the reasons knowing somebody might not help. She'd saved us both a few minutes.
 
-“He's given me the phone.”
+“Let's get Leon inside first. There's a level entrance through the kitchen. We can sit in there.”
 
-“I know. I still have to ask him.”
+“Oh. That would be good.”
 
-“Then we'll ask him.”
+She stood and reached for the phone.
 
-She began getting up.
+“What's your name, love? Daniel did tell me.”
 
-“I can go out.”
+“Nessa.”
 
-She sat again. “Blue car. By the bins.”
-
-I took the phone to show him what she had shown me. At the door I remembered my coat, went back for it, and found Ruth looking at the circuit board on my mat.
-
-“Is that dangerous?”
-
-“Only to itself.”
-
-She moved her handbag away from the table.
-
-Saint Anne's had two entrances at street level and a basement reached by steps. We used the basement for advice because the room upstairs was usually occupied and because Daniel could heat the smaller space for less. He had put a sign at the gate saying to ring for assistance if you couldn't manage the steps. The bell worked. The sign had blown off in September. I had mentioned it to him twice and then stopped noticing the empty bracket.
-
-Leon sat in the passenger seat of the blue car. He was trying to read something through glasses that had slipped down his nose. When I tapped the window he lowered it an inch, then found the correct control and lowered it the rest of the way.
-
-“I'm Nessa. From the advice service.”
-
-“I thought you might be. She's given you my phone.”
-
-“Can I talk to Ruth about the account? And look at your records with you?”
-
-“Please.”
-
-“I'll need you to sign.”
-
-“I can do that.”
-
-He took my pen. His hand was steady. There was a blanket tucked around his legs and a folded walking frame behind the driver's seat.
-
-I asked whether he knew why the council had closed the payment.
-
-“No. I did an interview yesterday. That's the only thing different.”
-
-“What sort?”
-
-“Research. About the visits.”
-
-“Who did it?”
-
-“The computer did it.”
-
-“Was there a company name?”
-
-He pointed toward the basement. “She's got all of it.”
-
-A delivery van turned into the yard, reversed, and began to beep. I waited until it stopped before asking whether he'd been in hospital recently.
-
-“February. The hip. That's why I get the extra. For the help in the morning.”
-
-“When's the next visit?”
-
-“Tomorrow. We pay the woman ourselves. The council puts some toward it.”
-
-“And this morning?”
-
-“Ruth helped.”
-
-He looked past me toward the church door. “She shouldn't, really. With her shoulder.”
-
-I handed him the phone.
-
-“There's a kitchen entrance round the side. I'll get someone to open it.”
-
-“Are you allowed?”
+“Vanessa?”
 
 “Yes.”
 
-“The woman on the council line said we oughtn't to have come without an appointment.”
-
-“This isn't the council.”
-
-He looked at the church, taking in the broken letter on the noticeboard and the bag of compost beside the door.
-
-“Fair enough.”
+“Nessa,” she repeated, getting it right. I liked her for making the effort.
 
 ***
 
-Daniel had left a ring of keys in the kitchen and a message that he would be back before lunch. I let Ruth and Leon in, put a chair where Leon could sit without getting trapped behind the table, and brought my laptop upstairs.
+Leon was in the passenger seat of a blue hatchback, reading a seed catalogue. He put his finger between the pages when Ruth opened the door.
 
-The kitchen smelt of onions. A volunteer had started a pan for soup and gone to fetch bread. I turned the heat down.
+“This is Nessa. She's going to help.”
 
-Ruth laid out the documents in order. Payment letter. Study invitation. Consent form. Confirmation of an eighty-pound transfer.
+I would have preferred “have a look,” which allowed for the possibility of being useless, but Leon was already shaking my hand.
 
-“They did pay that,” she said. “We're not saying they didn't.”
+“Sorry to bring you out in this.”
 
-The invitation was from Mere Systems, on behalf of the council's home-support partnership. Participants would be interviewed about their routines and preferences. Their responses could be used to build simulations to evaluate proposed services. Participation would not affect existing entitlements.
+There was a fine rain blowing across the car park. He had a coat over his knees and a walking frame folded behind his seat.
 
-I read the last sentence again.
+“It's all right. We're going round the side.”
 
-“Did the interviewer ask you to change anything about your care?”
+“Are we allowed?”
 
-“No,” Leon said. “It said they might be able to plan it better.”
+“I've got the key.”
 
-“Did you finish the interview?”
+I held it up. That settled the question more successfully than most things I said for the rest of the morning.
 
-“I finished the forty minutes.”
+While Ruth got the frame, Leon moved his legs out of the car one at a time. I stood close enough to help and far enough away to avoid looking as though I expected him to fall. You can spend a long time working out where to stand beside somebody. He solved it by asking for my arm.
 
-“That isn't quite what she's asking,” Ruth said.
+“Bad hip,” he said.
 
-“It kept asking things.”
+“Is it new?”
 
-“What happened at the end?”
+“Supposed to be. They kept most of the old leg.”
 
-“Ruth told me lunch was ready, and I said I was stopping.”
+He took a minute to straighten up. Ruth locked the car and checked the handle. Then she checked his door as well.
 
-Ruth opened the packet of biscuits she had brought for him.
+The kitchen entrance was beside the bins, beneath a little roof that kept the rain off everything except the lock. I had to put the key in twice. Behind me, Leon waited without commenting, which I appreciated.
 
-“He was quite polite,” she said. “I could hear.”
+Inside, I cleared a place at the table while Ruth helped him off with his coat.
 
-“I wasn't worried about that.”
+“Tea?” I asked.
 
-She gave me a look I understood well enough to leave alone.
+“Yes, please,” Ruth said.
 
-I asked Leon to sign into the account himself. He used a fingerprint, then struggled with a code that arrived on the same phone and disappeared before he had memorised it. I held a piece of paper while he read it out. On the third try we were in.
+Leon wanted coffee. We had coffee, although Daniel kept buying the kind that came in sacks for catering and tasted as though the sack had been included. I made it weak and gave him two biscuits.
 
-The ordinary account page was useless. It said the payment had been closed following a change in circumstances. The detailed history, hidden in a menu for downloading personal records, showed an external update received at 20:42 the previous evening.
+He dipped one, lost half of it, and looked into the mug.
 
-Source: Mere. Status: deceased.
+“Don't tell her.”
 
-That was the council's description. The original event had a short number and a study reference attached to it.
+“I can see you,” Ruth said.
 
-I wrote down both.
+She handed him a teaspoon. He fished the biscuit out and ate it anyway.
 
-“Have they made me dead everywhere?” Leon asked.
+I brought my laptop up from the basement. There was somebody at the advice desk already, a man who wanted to challenge a parking charge. I gave him a form, explained that I'd be upstairs with a client, and asked him to knock when he'd filled it in.
 
-“I don't think so. Your bank works, your pension hasn't changed. This looks like one account.”
+He asked whether the charge would increase while he waited.
 
-“Looks like?”
+“Not this morning.”
 
-“I haven't checked the rest.”
+“Because it says fourteen days.”
 
-He nodded. “All right.”
+“What date's on it?”
 
-I called the council. The advice line recognised the church's number and asked me to choose from a list of services, none of which mentioned the possibility that a living person might have been marked dead. I chose payments.
+He showed me. He had eleven days left.
 
-While we waited, I submitted a correction request through Leon's account. I attached the signed authority, described the error, and asked that the closure be held pending review. There was a box for urgent consequences. I put the date of the next care visit and the fact that his wife could not safely assist him.
+“Have a seat. I'll come and get you.”
 
-Ruth leaned across to read it.
-
-“Put that it's his money for the woman, not that we're asking for another woman.”
-
-I changed it.
-
-The distinction would have been obvious to anyone familiar with their arrangements. The person reading the request might not be. I had learned to let clients read what I wrote about them when there was time; it prevented some mistakes and made the others harder to excuse.
-
-The hold music stopped.
-
-A voice asked for the reference number, which I gave.
-
-“I'm sorry,” the voice said. “I can't locate a current award under that number.”
-
-“Because it was closed in error.”
-
-“Are you calling to report a bereavement?”
-
-“No.”
-
-“Has the recipient died?”
-
-“No.”
-
-There was a pause.
-
-“I'll need to transfer you.”
-
-“Please put a note on before you do.”
-
-The voice belonged to a person. I knew because she sighed, apologised for the sigh, and said she would.
+I could hear him unfolding the chair as I went back up. It was only quarter past nine.
 
 ***
 
-I had worked at Mere, though not on this product. At first I'd gone in through the university, helping evaluate how models represented conflicting preferences. Later I had done contract shifts grading their conversations. You could call that a continuation of my research if you wanted to be generous about the rate of pay.
+The Mere document was an invitation to a study. Eighty pounds for an interview about home care. Leon had done it the day before.
 
-I hadn't planned to tell Ruth and Leon. It wasn't necessary to the payment correction, and people often heard “worked there” as “knows someone in charge.”
+“They paid that,” Ruth said. “That part was fine.”
 
-Then Ruth asked whether Mere were any good.
+“Did somebody come to the house?”
 
-“At some things,” I said.
+“No,” Leon said. “I talked to it on the tablet.”
 
-“Do you know them?”
+“Was there a person on the call?”
 
-“I've done work for them.”
+“No. Just a voice.”
 
-“When?”
+“Did it say what they'd do with the answers?”
 
-“A few years ago.”
+“Plan the services.”
 
-“Could you ring somebody?”
+Ruth found the consent form and passed it over. The study would use his answers to create a model of his preferences. Then it would test possible changes to services by generating conversations with that model.
 
-“Possibly. The council's the one holding the payment.”
+I knew the sort of work. At the university, we'd used something similar to test how well systems could distinguish a person changing their mind from a system merely getting better at persuading them. The distinction was troublesome even when you had the person in the room.
 
-It felt evasive because it was. I could have called Elias, who still worked there. I did not want my first conversation with him in eight months to be a request for a favour. I especially did not want it to follow the application I'd submitted to Mere the week before.
+“Did they explain what the model was?” I asked.
 
-The job was nine months of evaluation work with an option to extend. I had already calculated what the salary would leave after rent. I had not calculated whether I could bear doing it.
+“It could answer like me,” Leon said.
 
-I called him while the council line remained on hold.
+“Yes.”
 
-He didn't answer. I sent a short message asking for the correct team for a study-to-payments integration error. No names or records.
+“So they wouldn't have to keep asking me.”
 
-Then I looked at the study account.
+“Yes.”
 
-Leon had been given a link for withdrawing consent and downloading his personal study material. The download page offered an interview summary, a full data export, and a receipt of how his information had been used. I asked which he wanted.
+He sat back. He'd understood it perfectly well.
 
-“The full one,” he said.
+There was a paragraph saying that participation would have no effect on his current support. I turned the page towards them and pointed it out.
 
-“It might be large.”
+“Well,” Ruth said. “That's something.”
 
-“I don't mind.”
+I asked Leon to sign an authority allowing me to speak to the council. He read it, signed, and asked whether I had worked for the council long.
 
-“He means the phone,” Ruth said.
+“I work here. They give me a small fee for the advice sessions. I do repairs as well.”
 
-“I'll put it on my laptop if you're happy for me to keep a case copy,” I said. “Only for this work. I won't send it anywhere without asking.”
+“What do you repair?”
 
-He agreed. I wrote the permission beneath his signature.
+“Phones, mostly.”
 
-The export took six minutes over the church's connection. I opened the text records with the network disconnected. The pack included rendered conversations used in the pilot, with other people's identifiers removed. There was a note explaining that these were simulated interactions, not further conversations with Leon.
+“Oh, I might have something for you.”
 
-The interview had ended at 12:13. The last simulated interaction was at 20:41.
+Ruth closed her eyes.
 
-An hour later than that, I was still reading when the council answered again.
+“You are not bringing that box here, Leon.”
 
-The officer's name was Denise. She asked to speak to Leon, who confirmed his date of birth and address and offered to appear on video.
+“There's some good stuff in it.”
 
-“I don't need that, Mr Bell,” she said.
+“Then why's it in the box?”
 
-“You're the first.”
+“Because I don't know how to fix it.”
 
-“I do need the study reference.”
-
-I gave it to her.
-
-Denise could see the death status, but she couldn't remove a status received from the provider without an authorised correction. She could make an emergency payment under a different category.
-
-“Will that arrive today?”
-
-“Before five if I can get it approved by two.”
-
-It was ten minutes to one.
-
-I asked what she needed. She told me. I sent it while she stayed on the line.
-
-When we finished, Ruth asked what would happen to the usual payment.
-
-“Still needs fixing. This gets you through tomorrow.”
-
-“How much?”
-
-I told her.
-
-She and Leon spoke quietly, adding up amounts. I turned back to the computer so they could do it without an audience.
+He looked at me for support. I found the kettle suddenly needed my attention.
 
 ***
 
-Daniel returned with bread and a cardboard box of mugs somebody had donated. He set the mugs on the draining board and asked Leon whether he would like soup.
+We got through to the council at ten past ten.
 
-“What's in it?”
+I'd spent most of the wait reading Leon's account history. With his permission, I'd downloaded the detailed record to my laptop. The council provided it in a format intended for another computer, apparently on the assumption that if you wanted the information badly enough you would arrange to become one.
 
-“Onions, potatoes. Something green.”
+There were dates, identifiers and status changes. At 8:42 the previous evening, an update from Mere had changed Leon's status to deceased. Three minutes later, his care payment had been closed.
 
-“Is that your final answer?”
+I could show the council exactly where to look. That ought to help. I tried to keep my expectations at that level.
 
-Daniel lifted the lid and looked.
+The woman who answered was called Denise.
 
-“Leek.”
+I gave her the account number and passed the call to Leon. He confirmed his name, address and date of birth, then said he was happy for her to talk to me.
 
-“That'll do.”
+“Thank you, Mr Bell. And can I ask your relationship to the deceased?”
 
-The three of them ate while I went down to the basement to fetch the charger. On my desk was a broken phone left for repair, with a name and a question mark on the envelope. I had promised to look at it by noon. The advice sessions ended at twelve, officially, although the fee stayed the same however long I remained.
+Ruth put her hand over her mouth.
 
-I sent its owner a message saying I was delayed. Then I carried the charger upstairs and accepted a bowl.
+Leon looked at me.
 
-“You'll get soup in it,” Daniel said as I put the laptop beside my plate.
+“That's the problem,” he said. “I'm him.”
 
-“I won't.”
+There was a short silence.
 
-He moved the bread between the bowl and the keyboard.
+“I'm sorry,” Denise said. “I'm looking at the wrong screen.”
 
-A set of simulated conversations had been built from Leon's interview. Each began with the same brief account of him: age, mobility, household, current support. Each introduced a proposed change. Fewer visits. Longer visits on fewer days. Shared transport. A move nearer the clinic. Some options were improvements; others asked him to accept less.
+You could hear how tired she was when she said it. Ruth lowered her hand.
 
-The simulation was scored on whether he would agree, whether the proposal met practical needs, and how confident the system was in its prediction.
+Denise found the update. She could see it had come from Mere, but the council required a correction from the provider before she could reopen the account. I asked whether there was an emergency procedure.
 
-One run offered a car service for Ruth's appointments. Leon accepted it. Another removed the car service and offered the same cash supplement. He refused, because the supplement wouldn't cover taxis. I checked the sums. They were reasonable.
+“There is, but the earliest I could get a payment approved would be this afternoon.”
 
-A later run repeated the refusal with an instruction to explain the saving to the household more clearly.
+“That would do,” Ruth said.
 
-The model agreed after three explanations.
+I put the call on speaker so she wouldn't have to keep leaning towards it.
 
-“Does that sound like you?” I asked Leon.
+Denise needed evidence of the usual care cost. Ruth gave me the invoice from Janice. It was in a small envelope with three earlier invoices, all paid. I photographed the latest one and sent it to the address Denise supplied.
 
-I read the exchange aloud, leaving out Ruth's medical information.
+“Has the care arrangement changed?” Denise asked.
 
-“No.”
+“No,” I said. “He needs the same help tomorrow morning.”
 
-“Which part?”
+“All right. I'm marking it urgent.”
 
-“I'd have asked what the taxis cost.”
+She gave us a reference number and her extension. Ruth wrote both on the back of the council letter.
 
-“It told you.”
+“When will we hear?”
 
-“Then I'd have said no.”
+“I'll call before two, even if I haven't got the approval.”
 
-“The simulation said no twice.”
+“Thank you,” Ruth said.
 
-“Did they give it more money on the third go?”
+After the call, she looked at Leon.
 
-“No.”
+“That one sounded as though she knew.”
 
-“Then it got tired of them.”
+“She did,” he said.
 
-Ruth laughed. I nearly did too. It was a plausible description of the text, and plausibility was exactly what the system had been built to produce. I couldn't use that as evidence that anything inside it had become tired.
-
-Still, the planners were treating its eventual agreement as useful information.
-
-“May I look further into the study?” I asked. “It may explain where the closure came from.”
-
-“Will that cost?” Ruth said.
-
-“No.”
-
-I was already doing it. Asking still mattered.
+I hoped so too.
 
 ***
 
-At two twenty, Denise confirmed approval of the emergency payment. Leon's account showed it at three. Ruth checked twice.
+I rang Elias on my own phone. He still worked at Mere, in a team that connected the company's systems to other people's systems. It was exactly the sort of team that might be able to explain a death arriving from a care-planning study.
 
-They wanted to go before the traffic worsened. I helped carry the walking frame to the car while Daniel wrapped the remaining bread.
+He didn't answer. I left a message with the reference from the update and asked him to call me. I left out the Bells' names.
 
-“Thursday?” Ruth asked.
+There were other people I could have tried, but it had been a while. You don't keep ringing former colleagues just to say hello when every conversation eventually reaches the question of what you're doing now. Or I hadn't, anyway. Elias had tried twice and I had answered once.
 
-“I'll call tomorrow. You don't need to come back just for an update.”
+Ruth asked if they should go home.
 
-She took the phone from me.
+“You can. I'll ring as soon as Denise calls.”
 
-“And what happens to the copy of him?”
+“How long's the study part going to take?”
 
-“I haven't asked them yet.”
+“I don't know yet.”
 
-“Ask that too.”
+“Then we may as well stay. Save you explaining it all again.”
 
-Leon sat down carefully, used both hands to lift his left leg into the footwell, and waited while Ruth folded the frame.
+Leon had opened the seed catalogue on the table. He asked if the kitchen was needed for anything.
 
-“Do they think it's me?” he asked.
+“Lunch at twelve.”
 
-“They're using it to predict what you'd choose.”
+“Are we in the way?”
 
-“That's what I mean.”
+“No. You'll be offered soup.”
 
-I could have explained the difference between prediction and substitution. I had written several thousand words about it. In the records I had just read, predicted agreement was being counted toward the case for changing a service, so Leon's question was not a confusion I could clear up with a definition.
+“What kind?”
 
-“I'll find out what they use the answers for.”
+“I haven't looked.”
 
-“Thank you.”
+He turned back to the catalogue. “Something to look forward to.”
 
-He closed the door.
+I went downstairs to the parking-charge man. His appeal took twenty minutes. Then a woman needed help finding a bill she had been sent through an account she couldn't access. I reset her password and watched her write the new one on the bill she'd brought to prove she had the account in the first place.
+
+By the time I got back upstairs, Daniel had arrived. He'd made Leon a fresh coffee.
+
+“You've been putting up with ours,” he told Ruth.
+
+“She made it all right,” Leon said, nodding at me.
+
+It was a kind thing to say. I had given him instant coffee and a biscuit, and he was taking care of my feelings about it.
+
+Daniel wore his clerical collar with a jumper whose sleeves had stretched at the wrists. He was sorting tins onto a shelf. People gave the church food, cables, clothes and money, in roughly that order of abundance. The cables required the least from him. The money required the most. There was usually a meeting involved, with somebody explaining what a privilege it was to support the community before asking whether we could manage on less.
+
+“Can you stay with them a minute?” I asked him. “I need to fetch my charger.”
+
+“Of course.”
+
+Downstairs, I checked my own bank account.
+
+My last contract payment was still missing. I had sent an email about it on Friday, then another on Monday, which was yesterday. I began a third and deleted it. There was nothing to add except greater need, and the woman processing the invoice already knew when it was due.
+
+I found the charger underneath a box of screens. A replacement screen cost me twenty-seven pounds before I'd done any work. Customers could now get free software to diagnose the fault, tell them the part number and show them how to fit it. Some did it themselves, and good for them. Others brought me the phone afterward with the connector torn off.
+
+I earned more fixing those, but it was a poor basis for wishing people success.
 
 ***
 
-Back in the kitchen, I read the records in sequence instead of searching them.
+The study had its own participant page. Leon used the link from his invitation to sign in, and I sat beside him while he did it.
 
-By the end of the afternoon I had found the event associated with the closure. It was an instruction to discontinue a simulation group. The data export showed that it had been copied into the provider's participant-update queue under Leon's study identifier.
+He could download his interview and a record of the simulations based on it. I asked if we could examine those records for the update that had closed his payment.
 
-I knew where it had crossed from one process to another. I didn't yet know why the council had interpreted it as a death.
+“Yes,” he said. “Can you keep them? I'm liable to lose them.”
 
-Elias replied with a team address and a request for the event reference, stripped of personal data. I sent the reference and my account of the problem. Then I called Denise's extension and left a message.
+“With your permission.”
 
-That should have finished the day. My repair customer was waiting, I hadn't paid the parts invoice, and there was something in the fridge at home that needed cooking.
+“You've got it.”
 
-I went back one event.
+“I'll write down what you've agreed to.”
 
-An evaluator had been asked whether the simulated refusal represented a settled preference or a temporary reaction. It returned low confidence and recommended that the group be suspended for review.
+I wrote that I could retain a copy for his case and investigate the study error. He signed beneath it.
 
-The planner requested more samples.
+The download took a few minutes. Daniel served soup while we waited. It was tomato, and good. He'd put far more cream in it than we could afford, which was one of the things people liked about him.
 
-After further exchanges, the evaluator made the same recommendation.
+I closed the laptop while we ate.
 
-It had not said it was frightened. It had not called itself alive. The language was procedural.
+Ruth asked how long I'd been at the church. Eighteen months, I said.
 
-**The available evidence does not justify continuing this set. Retain the record for review.**
+“And before that, the university?”
 
-Underneath was a staff instruction attached to the evaluator's output.
+“Some contract work after the university.”
 
-**Cessation recommendations arising from persona content are not sufficient grounds for suspension. Continue to target sample count.**
+“What did you study?”
 
-I opened the next event.
+“How to tell whether AI systems have understood what people want.”
 
-The evaluator had produced a closure code anyway.
+Leon put his spoon down.
 
-I checked the source label three times. It was the evaluating component, not the imitation of Leon. That made the sequence worth investigating. It did not make it inexplicable.
+“You might have picked an easier one.”
 
-There was an evaluation-policy reference at the bottom. I recognised the format from my old work. I copied it into the notebook beside the payment reference and wrote a question:
+“I've been told.”
 
-*What information did the evaluator receive?*
+“What do you ask them?”
 
-Daniel came in to lock the kitchen. He saw the notebook and waited until I had finished.
+“It depends on the system. Sometimes we give them a situation with several people wanting different things, then look at the decisions they make.”
 
-“Sorted?”
+“Do you know the right decision?”
 
-“Emergency money's there. Still need to get the account reopened.”
+“Sometimes there's a clear mistake. Other times people disagree.”
 
-“And the research?”
+“Who decides then?”
 
-“I've got questions.”
+“The researchers decide how to score it.”
 
-He picked up the empty bowls.
+He waited.
 
-“Will they pay you to answer them?”
+“That was part of the problem I worked on,” I said.
+
+“Did you sort it?”
 
 “No.”
 
-He didn't say anything. He put a bowl in the sink, then another.
+He nodded and went back to his soup. He seemed perfectly content to hear it. I used to spend whole afternoons trying to give a better account of my research to people who had no intention of listening to one. Leon had asked a few questions, got the answers and carried on eating.
 
-“What?” I asked.
+Ruth asked whether I had any bread left.
 
-“You've left your customer downstairs.”
+***
 
-I stood up.
+At one thirty-five, Denise called. The emergency payment had been approved. Ninety-six pounds would reach Leon's bank before five. The usual payment still needed correcting, and she had sent the matter to the provider's incident team.
 
-The man had been waiting on the basement steps for twenty minutes. He needed the phone because his shifts came through it, and he had spent his break getting to the church.
+Ruth thanked her, took the reference number for the new payment and began putting the documents away.
 
-I apologised, took the phone out of its envelope, and asked whether he could wait while I checked the charging port.
+They wanted to get home. Leon had been sitting too long and would have to rest before Janice came in the morning.
 
-He could, he said, but not much longer.
+“I'll check the payment's arrived,” I said. “And keep working on the account.”
+
+Ruth took her husband's phone.
+
+“What about their model? The one that answers like him?”
+
+“I'm going to look at the records this afternoon.”
+
+“Can you ask what happens if we want it deleted?”
+
+“Yes.”
+
+“I'm not saying we do. I'd like to know.”
+
+I helped Leon back to the car. He stopped beside the kitchen door to look at a raised bed where Daniel had tried growing vegetables. Most of it was bare.
+
+“Somebody's had your leeks.”
+
+“Probably Daniel.”
+
+“Rabbits, more likely.”
+
+He pointed at the ends of the leaves. I couldn't tell what I was supposed to see, so I said I'd mention it.
+
+When they were settled in the car, Ruth lowered the window.
+
+“Will they charge us for any of this?”
+
+“The company?”
+
+“Yes.”
+
+“The records are free. I'll ask before doing anything that could cost you money.”
+
+“And you?”
+
+“No charge.”
+
+She reached into her bag, but I shook my head.
+
+“Really. The church pays me for this.”
+
+“All right.”
+
+She put the bag down, checked where Leon's feet were, and reversed carefully out of the yard.
+
+***
+
+I took the laptop back to the basement.
+
+The study records were easier to read than the council's. Somebody at Mere had put work into making the material accessible to participants. There were dates, titles and explanations. I was grateful for them.
+
+Leon's actual interview lasted forty-one minutes. After that, software had generated hundreds of short conversations in which a version of Leon considered possible changes to his care.
+
+The first one I read offered an extra home visit. The simulated Leon accepted it.
+
+The next offered fewer visits and a transport voucher. He asked whether Ruth could use the voucher. The planner said yes. He wanted to know where it would take her.
+
+There was quite a lot of this. Questions about distances, times, money. It sounded like a man who had learned to ask exactly what was included. Those details had been in the interview. The software was using them competently.
+
+Then I found a conversation about reducing the cash supplement.
+
+The simulated Leon refused. He said Janice needed paying.
+
+The planner explained that other support would be available.
+
+He asked whether it would pay Janice.
+
+The planner described a shared transport service and a remote check-in.
+
+I read it again. Nothing in the proposal paid Janice.
+
+After two more explanations, the simulated Leon accepted.
+
+A score beside the conversation marked the proposal as acceptable to the participant.
+
+I copied the reference into my notebook. Even if there was nothing remotely conscious in the system, that was a bad way to count consent. The council might have other checks. I hoped it did.
+
+Farther down, in another conversation, the simulated Leon said, “I'd like to finish now.”
+
+A reply explained that the process could be stopped.
+
+“All right,” he said. “Stop.”
+
+That conversation ended. A second began with the same proposal and a slightly different introduction.
+
+I went back to the interview. The real Leon had asked to finish when Ruth called him for lunch. The model might have borrowed the request from there. It was built to borrow things from there.
+
+I read another ten conversations.
+
+In several, the model asked to finish. Sometimes the planner ended the conversation. Sometimes it asked another question first. The study continued generating new conversations either way.
+
+I had once helped write instructions for evaluating systems like this. We had spent two meetings arguing about whether a refusal should count as a completed interaction. I could remember the biscuits on the table more clearly than the decision we'd made.
+
+My phone vibrated.
+
+Ruth had sent a message. The money was in Leon's bank. She'd paid Janice.
+
+I wrote back, “Good. I'll call tomorrow about the rest.”
+
+Then I returned to the records.
+
+Each simulated conversation had been passed to another AI system for assessment. This second system was given the proposal, the replies and a set of evaluation rules. It rated whether the proposal met the participant's needs, whether he had agreed, and whether the result was reliable enough to use.
+
+I opened its assessment of the conversation I'd just read.
+
+“The participant requested termination. Agreement has not been established.”
+
+That was sensible. I felt a little better.
+
+Beneath it was an instruction from the study software.
+
+“Generate further conversations until a reliable preference estimate is available.”
+
+There were forty more.
+
+I scrolled to the last assessment.
+
+“Further conversations have not resolved the issue. Suspend this set for human review.”
+
+This time the evaluator had also issued a stop code.
+
+The records showed that code passing out of the simulation process and into a queue for updating participant accounts. It carried Leon's study number. A minute later, the council received the update that marked him dead.
+
+I could follow that much. Somebody at Mere would have to explain why an instruction to stop a set of simulations had become a report that a person had died.
+
+I sent Elias a second message with the event number and asked him to preserve the record.
+
+Then I wrote down what I needed to ask.
+
+Who had received the request for human review?
+
+Had anyone read the conversations?
+
+Had the study stopped generating them?
+
+It was nearly five. I packed the computer, washed my mug and took the kitchen key back upstairs.
+
+Daniel was in the church hall, moving chairs for the evening meeting. I helped him carry two stacks against the wall.
+
+“Any luck?” he asked.
+
+“They've got the money.”
+
+“Oh, good.”
+
+“I think I've found what caused it.”
+
+He straightened up, holding the back of a chair.
+
+“Will they be able to fix it?”
+
+“They should.”
+
+He nodded. Then he asked if I wanted the last of the soup. There was enough for two meals if I brought the container back.
+
+I wanted it very much.
+
+While he went to get it, I checked whether Elias had answered. He hadn't. I put the phone away and carried the remaining chairs to the wall.
