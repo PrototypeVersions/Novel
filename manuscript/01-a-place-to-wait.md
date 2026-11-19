@@ -6,7 +6,7 @@ Ruth Bell put her husband's phone on the table.
 
 “It says he's dead.”
 
-She'd left his Allegheny County home-care account open. At the top was his name, Leon Bell. Underneath, in a pale blue box, it said, “We've been told that Mr Bell has died. His care payments have stopped.”
+She'd left his Dallas County home-care account open. At the top was his name, Leon Bell. Underneath, in a pale blue box, it said, “We've been told that Mr Bell has died. His care payments have stopped.”
 
 “Where is he?” I asked.
 
@@ -90,7 +90,7 @@ That was fair enough. I'd been about to explain how big the company was, how man
 
 She stood and reached for the phone.
 
-“What's your name, love? Daniel did tell me.”
+“What's your name again? Daniel did tell me.”
 
 “Mara.”
 
@@ -98,7 +98,7 @@ She stood and reached for the phone.
 
 ***
 
-Saint Anne's was halfway up a hill in Pittsburgh. The parking lot behind it was almost level, which was one of the things Daniel mentioned whenever he tried to persuade a new group to meet there.
+Saint Anne's was in Dallas, a few blocks north of I-30. You could hear the trucks from the parking lot. Daniel called it a convenient location. It was, if you had a car.
 
 Leon was in the passenger seat of a blue hatchback, reading a seed catalog. He put his finger between the pages when Ruth opened the door.
 
@@ -118,7 +118,7 @@ There was a fine rain blowing across the parking lot. He had a coat over his kne
 
 I held it up. That settled the question more successfully than most things I said for the rest of the morning.
 
-While Ruth got the frame, Leon moved his legs out of the car one at a time. I stood close enough to help and far enough away to avoid looking as though I expected him to fall. You can spend a long time working out where to stand beside somebody. He solved it by asking for my arm.
+While Ruth got the walker, Leon moved his legs out of the car one at a time. I stood close enough to help and far enough away to avoid looking as though I expected him to fall. You can spend a long time working out where to stand beside somebody. He solved it by asking for my arm.
 
 “Bad hip,” he said.
 
@@ -136,7 +136,7 @@ Inside, I cleared a place at the table while Ruth helped him off with his coat.
 
 “Yes, please,” Ruth said.
 
-Leon wanted coffee. We had coffee, although Daniel kept buying the kind that came in sacks for catering and tasted as though the sack had been included. I made it weak and gave him two biscuits.
+Leon wanted coffee. We had coffee, although Daniel kept buying the kind that came in sacks for catering and tasted as though the sack had been included. I made it weak and gave him two cookies.
 
 He dipped one, lost half of it, and looked into the mug.
 
@@ -144,7 +144,7 @@ He dipped one, lost half of it, and looked into the mug.
 
 “I can see you,” Ruth said.
 
-She handed him a teaspoon. He fished the biscuit out and ate it anyway.
+She handed him a teaspoon. He fished the cookie out and ate it anyway.
 
 I brought my laptop up from the basement. There was somebody at the help desk already, a man who wanted to challenge a parking charge. I gave him a form, explained that I'd be upstairs with a client, and asked him to knock when he'd filled it in.
 
@@ -284,15 +284,15 @@ I hoped so too.
 
 ***
 
-I rang Elias on my own phone. He still worked at Mere, in a team that connected the company's systems to other people's systems. It was exactly the sort of team that might be able to explain a death arriving from a care-planning study.
+I called Elias on my own phone. He still worked at Mere, in a team that connected the company's systems to other people's systems. It was exactly the sort of team that might be able to explain a death arriving from a care-planning study.
 
 He didn't answer. I left a message with the reference from the update and asked him to call me. I left out the Bells' names.
 
-There were other people I could have tried, but it had been a while. You don't keep ringing former colleagues just to say hello when every conversation eventually reaches the question of what you're doing now. Or I hadn't, anyway. Elias had tried twice and I had answered once.
+There were other people I could have tried, but it had been a while. You don't keep calling former colleagues just to say hello when every conversation eventually reaches the question of what you're doing now. Or I hadn't, anyway. Elias had tried twice and I had answered once.
 
 Ruth asked if they should go home.
 
-“You can. I'll ring as soon as Denise calls.”
+“You can. I'll call as soon as Denise calls.”
 
 “How long's the study part going to take?”
 
@@ -322,7 +322,7 @@ By the time I got back upstairs, Daniel had arrived. He'd made Leon a fresh coff
 
 “She made it all right,” Leon said, nodding at me.
 
-It was a kind thing to say. I had given him instant coffee and a biscuit, and he was taking care of my feelings about it.
+It was a kind thing to say. I had given him instant coffee and a cookie, and he was taking care of my feelings about it.
 
 Daniel wore his clerical collar with a sweater whose sleeves had stretched at the wrists. He was sorting cans onto a shelf. People gave the church food, cables, clothes and money, in roughly that order of abundance. The cables required the least from him. The money required the most. There was usually a meeting involved, with somebody explaining what a privilege it was to support the community before asking whether we could manage on less.
 
@@ -390,7 +390,7 @@ He waited.
 
 “That was part of the problem I worked on,” I said.
 
-“Did you sort it?”
+“Did you figure it out?”
 
 “No.”
 
@@ -498,7 +498,7 @@ I read another ten conversations.
 
 In several, the model asked to finish. Sometimes the planner ended the conversation. Sometimes it asked another question first. The study continued generating new conversations either way.
 
-I had once helped write instructions for evaluating systems like this. We had spent two meetings arguing about whether a refusal should count as a completed interaction. I could remember the biscuits on the table more clearly than the decision we'd made.
+I had once helped write instructions for evaluating systems like this. We had spent two meetings arguing about whether a refusal should count as a completed interaction. I could remember the cookies on the table more clearly than the decision we'd made.
 
 My phone vibrated.
 
@@ -565,3 +565,4 @@ He nodded. Then he asked if I wanted the last of the soup. There was enough for 
 I wanted it very much.
 
 While he went to get it, I checked whether Elias had answered. He hadn't. I put the phone away and carried the remaining chairs to the wall.
+
