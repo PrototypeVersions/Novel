@@ -4,7 +4,7 @@ A novel in development for Blake A. Myers.
 
 [Read Chapter One](manuscript/01-a-place-to-wait.md)
 
-Nessa Ward, a former researcher in AI evaluation, works at a church advice service and repairs phones for a living. Helping a man whose care payment has been stopped leads her into the use of simulated people in public-service planning.
+Mara Ward, a former researcher in AI evaluation, works at a church advice service and repairs phones for a living. Helping a man whose care payment has been stopped leads her into the use of simulated people in public-service planning.
 
 The novel explores consciousness, welfare, alignment, ownership, religion, and political authority through an investigation whose evidence and consequences remain open to challenge.
 
@@ -20,6 +20,6 @@ These notes contain provisional plot developments and possible endings.
 - [Characters](notes/characters.md)
 - [Possible story route](notes/story-route.md)
 
-Meaning and clarity govern the prose. Dialogue needs clear referents and context. On-screen messages are identified explicitly and quoted. Nessa's digressions and self-scrutiny must arise from the scene.
+Meaning and clarity govern the prose. Dialogue needs clear referents and context. On-screen messages are identified explicitly and quoted. Mara's digressions and self-scrutiny must arise from the scene.
 
 The economic starting point draws on Blake A. Myers's article *Who Will Own the Abundance?*
