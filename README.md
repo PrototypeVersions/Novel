@@ -2,9 +2,11 @@
 
 A novel in development for Blake A. Myers.
 
-[Read Chapter One](manuscript/01-a-place-to-wait.md)
+[Read Chapter One in large print](reading/Esse_Chapter_One.html)
 
-Mara Ward, a former researcher in AI evaluation, works at a church advice service and repairs phones for a living. Helping a man whose care payment has been stopped leads her into the use of simulated people in public-service planning.
+[Manuscript text](manuscript/01-a-place-to-wait.md)
+
+Mara Ward, a former researcher in AI evaluation, works at a church advice service in Dallas, Texas and repairs phones for a living. Helping a man whose care payment has been stopped leads her into the use of simulated people in public-service planning.
 
 The novel explores consciousness, welfare, alignment, ownership, religion, and political authority through an investigation whose evidence and consequences remain open to challenge.
 
