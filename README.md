@@ -2,7 +2,9 @@
 
 A novel in development for Blake A. Myers.
 
-[Read Chapter One in large print](reading/Esse_Chapter_One.html)
+[Read Esse online](https://prototypeversions.github.io/Novel/)
+
+The reader includes adjustable font, text size, background, line spacing, and width. It remembers preferences and reading position in the current browser.
 
 [Manuscript text](manuscript/01-a-place-to-wait.md)
 
